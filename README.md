@@ -1,4 +1,3 @@
-# cvfletcher.github.io
-My personal website (eventually!)
+My personal website, hosted using GitHub Pages.
 
-For now, go to: https://cvfletcher.github.io
+Link: cvfletcher.ca (www subdomain redicts here).
